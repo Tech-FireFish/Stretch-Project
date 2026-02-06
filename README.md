@@ -1,2 +1,2 @@
 # Stretch-Project
-The initial possibility of everything. 
+The possibility of everything. 
